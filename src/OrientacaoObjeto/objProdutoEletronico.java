@@ -28,7 +28,7 @@ public class objProdutoEletronico {
 		System.out.println(produto2.entrega);
 		System.out.println(produto2.valor);
 		System.out.println("");
-		void
+		//void
 
 	}
 
